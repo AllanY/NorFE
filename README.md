@@ -1,4 +1,6 @@
-Welcome to NorFE!	{#welcome}
+----------
+Welcome to NorFE!
+_________________
 
 =====================
 
@@ -15,20 +17,22 @@ Features
 
 #### <i class="icon-file"></i> In the time domain
 
-The integration in absolute
-The mean in absolute
-The variance
-The energy
-The root mean square
-The histogram
-The wave length
+The integration in absolute   
+The mean in absolute    
+The variance    
+The energy    
+The root mean square   
+The histogram   
+The wave length   
 
 
 #### <i class="icon-file"></i> In the time domain
 
-The peak of frequency: value_t peak_frequency(const fm_vec& fft_signal);
-The mean of frequency: value_t mean_frequency(const fm_vec& fft_signal);
-The ratio of frequency: value_t frequency_ratio(const fm_vec& fft_signal,value_t low,value_t high);
+The peak of frequency: value_t peak_frequency(const fm_vec& fft_signal);   
+
+The mean of frequency: value_t mean_frequency(const fm_vec& fft_signal);   
+
+The ratio of frequency: value_t frequency_ratio(const fm_vec& fft_signal,value_t low,value_t high);   
 
 ----------
 
