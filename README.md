@@ -26,7 +26,7 @@ The histogram
 The wave length   
 
 
-#### <i class="icon-file"></i> In the time domain
+#### <i class="icon-file"></i> In the frequency domain
 
 The peak of frequency   
 The mean of frequency    
